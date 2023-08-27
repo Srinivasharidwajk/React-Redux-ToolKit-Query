@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "title": "Post1",
+      "body": "some random postrs",
+      "userId": 81,
+      "id": 1
+    },
+    {
+      "title": "post2",
+      "body": "fsjhyjvk",
+      "userId": 484.40943431997806,
+      "id": 620.4749293021581
+    },
+    {
+      "title": "post3",
+      "body": "fadchkl",
+      "userId": 665.2630735588369,
+      "id": 157.40262685654116
+    }
+  ]
+}
